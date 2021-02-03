@@ -1,7 +1,7 @@
 # Regression Analysis of CDC Guidelines on Muscle-Strengthening Activity
 Authors: Kevin He, Ash Dubal, Jason Gill
 ## Table of Contents
- - [Abstract](https://github.com/kaishuun/CDC-Physical-Activity-Regression-Analysis#abstract)
+ - [Abstract](https://github.com/JG-99/CDC-Physical-Activity-Regression-Analysis#abstract)
  - [Introduction](https://github.com/kaishuun/CDC-Physical-Activity-Regression-Analysis#introduction)
  - [Data Cleaning and Description](https://github.com/kaishuun/CDC-Physical-Activity-Regression-Analysis#data-cleaning--description)
      - [Data Cleaning](https://github.com/kaishuun/CDC-Physical-Activity-Regression-Analysis#data-cleaning)
